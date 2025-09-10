@@ -25,7 +25,7 @@ SECRET_KEY = 'SECRET_KEY'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['music-player-1-oscs.onrender.com','*']
 
 
 # Application definition
